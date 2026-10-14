@@ -1,0 +1,5 @@
+[functions.email-status]
+verify_jwt = false
+
+[functions.admin-copilot]
+verify_jwt = false
